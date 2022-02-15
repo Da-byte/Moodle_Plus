@@ -1,0 +1,21 @@
+.participantsPanel{
+    background-color:#C3CACBC4;
+    color: black;
+    text-align: center;
+    position:relative;
+    height: 60px;
+    padding: 20px;
+    border-radius: 24px;
+    width: 100%;
+    opacity: 1;
+  }
+
+  .chatBtn {
+    background: #5FA3AC;
+    border-radius: 20px;
+    width: "10em";
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #ffffff;
+  }

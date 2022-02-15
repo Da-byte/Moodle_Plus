@@ -1,0 +1,20 @@
+.chatBackground{
+    width: 93vw;
+    height: 80vh;
+    border: 0px solid cyan;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(128, 128, 128) 100%);
+    background-clip: content-box, padding-box;
+  }
+
+  .itemCol{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px;
+    position: relative;
+    width: "20em";
+    height: "80vh";
+  }

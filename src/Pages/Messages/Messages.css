@@ -1,0 +1,12 @@
+.chatImg{
+    background-image: url("../../images/chat.png") no-repeat 0 0;
+    height: 50px;
+    width: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: contain;
+    background-color:transparent;
+    backface-visibility:visible;  
+  }

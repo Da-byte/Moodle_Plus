@@ -1,0 +1,15 @@
+.bookmarkImgBackgroud{
+    background-image: url("../../images/bookmark.jfif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
+  }
+
+  .settingsImgBackgroud{
+    background-image: url("../../images/settings.jfif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
+  }

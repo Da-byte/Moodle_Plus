@@ -1,0 +1,80 @@
+.mondayImgBackgroud{
+    background-image: url("../../images/Mon.jpeg");
+    height: 35vh;
+    width: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: contain;
+  }
+  .tuesdayImgBackgroud{
+    background-image: url("../../images/tue.jpeg");
+    height: 35vh;
+    width: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: contain;
+  }
+  .wednesdayImgBackgroud{
+    background-image: url("../../images/wed.jpeg");
+    height: 35vh;
+    width: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: contain;
+  }
+  .thursdayImgBackgroud{
+    background-image: url("../../images/thu.jpeg");
+    height: 35vh;
+    width: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: contain;
+  }
+  .fridayImgBackgroud{
+    background-image: url("../../images/fri.jpeg");
+    height: 35vh;
+    width: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: contain;
+  }
+  .saturdayImgBackgroud{
+    background-image: url("../../images/sat.jpeg");
+    height: 35vh;
+    width: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: contain;
+  }
+  .sundayImgBackgroud{
+    background-image: url("../../images/sun.jpeg");
+    height: 35vh;
+    width: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: contain;
+  }
+  .plusImgBackgroud{
+    background-image: url("../../images/plus.jpg");
+    height: 35vh;
+    width: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: contain;
+  }

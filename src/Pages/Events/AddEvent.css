@@ -1,0 +1,5 @@
+.addEventBackground{
+    border: 0px solid cyan;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(128, 128, 128) 100%);
+    background-clip: content-box, padding-box;
+  }

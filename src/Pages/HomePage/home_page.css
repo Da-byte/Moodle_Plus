@@ -1,0 +1,157 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.homepageBackground{
+  width: 100%;
+  height: 100%;
+  border: 0px solid cyan;
+  background-image: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(128, 128, 128) 100%);
+  background-clip: content-box, padding-box;
+  min-height:"100vh";
+}
+
+.container_div {
+  padding: 20px;
+  background-image: linear-gradient(
+      to bottom,
+      #C3CACBC4 0%,
+      #C3CACBC4 100%
+    ),
+    linear-gradient(to bottom, rgb(156, 156, 156) 0%, rgb(128, 128, 128) 100%);
+  background-clip: content-box, padding-box;
+}
+
+.text_box {
+  opacity: 0.5;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  position:absolute;
+  bottom:0px;
+  left: 10%;
+  width: 80%;
+  align-items: center;
+}
+
+.welcome_text_box {
+  opacity: 0.5;
+  background-color:greenyellow;
+  color: black;
+  text-align: center;
+  position:relative;
+  height: 60px;
+  padding: 20px;
+  border-radius: 24px;
+}
+
+.text_box:hover {
+  opacity: 0.7;
+}
+
+.events_button {
+  width: 400px;
+}
+
+.messages_button {
+  width: 400px;
+}
+
+.button_top_padding {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.border_radius {
+  border-radius: 24px;
+  width: 400px;
+}
+
+.border_radius_extended {
+  border-radius: 24px;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 400px;
+}
+
+.background {
+  background-color: #fafafa;
+}
+
+.itemRow{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 10px;
+  position: relative;
+  width: "100%";
+  height: "300px";
+}
+
+.meetingImgBackgroud{
+  background-image: url("../../images/newmeetingHomePage.jpg");
+  height: 25vh;
+  width: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-size: contain;
+}
+.joinImgBackgroud{
+  background-image: url("../../images/joinImageHomepage.jpg");
+  height: 25vh;
+  width: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-size: contain;
+}
+.calendarImgBackgroud{
+  background-image: url("../../images/calendarHomepage.jpg");
+  height: 25vh;
+  width: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-size: contain;
+}
+.assesmentImgBackgroud{
+  background-image: url("../../images/assessmentsHomepage.png");
+  height: 25vh;
+  width: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-size: contain;
+}
+.reportImgBackgroud{
+  background-image: url("../../images/reportHomepage\ \(2\).png");
+  height: 25vh;
+  width: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-size: contain;
+}
+.profileImgBackgroud{
+  background-image: url("../../images/profileHomepage.png");
+  height: 25vh;
+  width: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-size: contain;
+}

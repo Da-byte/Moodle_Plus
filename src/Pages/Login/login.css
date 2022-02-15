@@ -1,0 +1,33 @@
+.title_margin_bottom {
+  margin-bottom: 100px;
+}
+
+.anchor_margin {
+  margin-top: 20px;
+  padding-bottom: 50px;
+}
+
+.form_margin_top {
+  margin-bottom: 50px;
+}
+
+.envelope_margin {
+  margin-top: 5px;
+}
+
+.submit_button_css {
+  border-radius: 24px;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-top: 20px;
+}
+
+.background {
+  background-color: #fafafa;
+}
+
+.fake-link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}

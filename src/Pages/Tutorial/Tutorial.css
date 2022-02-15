@@ -1,0 +1,10 @@
+.generalAppImgBackgroud{
+    background-image: url("../../images/126472.png");
+    height: 25vh;
+    width: 30%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: contain;
+  }

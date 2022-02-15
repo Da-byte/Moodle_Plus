@@ -1,0 +1,25 @@
+.modal-90w{
+    max-width: 80% !important; 
+    min-height: 50% !important; 
+ }
+
+ .settingsImgBackgroud{
+    background-image: url("../../images/Zoom.png");
+    height: 60vh;
+    width: 80vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+  }
+
+  .reactionImgBackgroud{
+    background-image: url("../../images/mobile.png");
+    height: 60vh;
+    width: 80vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+  }
+  

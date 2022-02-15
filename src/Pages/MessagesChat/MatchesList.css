@@ -1,0 +1,67 @@
+.matchedlistuserbluerectangle {
+    background-color: #FFFFFF;
+    color: #0e7ff8;
+    height: 100%;
+    width: 100%;
+    position: realtive;
+    box-shadow: 0px 0px 0px 0px rgba(163, 163, 163, 1);
+    border: 0px solid #73AD21;
+  }
+  
+  .matchedlistuserwhiterectangle {
+    background-color: #FBFAFA;
+    color:#1B3C60;
+    position: relative;
+    box-shadow: 0px 0px 0px 0px rgba(163, 163, 163, 1);
+    border: 0px solid #73AD21;
+    width: 100%;
+    display: flex;
+    align-items : center;
+    flex-wrap : nowrap;
+    justify-content :space-between;
+
+  }
+
+  .green-circle {
+    background: #8AD195;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+  }
+
+  .blue-circle {
+    background: #1B3C60;
+    color: #FFFFFF;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    line-height: 15px;
+    text-align: center;
+  }
+  
+  
+.topChatPartnerDetails {
+  background-color: #FFFFFF;
+  width: 74vw;
+  height: 6vh;
+  box-shadow: 0px 0px 0px 0px rgba(163, 163, 163, 1);
+  border: 0px solid #73AD21;
+  position: relative;
+  color: #1B3C60;
+  display: flex;
+  align-items : center;
+  flex-wrap : nowrap;
+  align-content: flex-start;
+}
+.photoList {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.profilePicList {
+  padding: 0;
+  background-color: #ffffff;
+  border-radius: 50%;
+  border: 5px solid #1b3c60;
+  width: 100px;
+  height: 100px;
+}
